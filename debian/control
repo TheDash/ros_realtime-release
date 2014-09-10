@@ -1,0 +1,12 @@
+Source: ros-hydro-rosrt
+Section: misc
+Priority: extra
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-allocators, ros-hydro-catkin, ros-hydro-lockfree, ros-hydro-rosatomic, ros-hydro-roscpp, ros-hydro-roslib, ros-hydro-rosunit, ros-hydro-std-msgs
+Homepage: http://ros.org/wiki/rosrt
+Standards-Version: 3.9.2
+
+Package: ros-hydro-rosrt
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-allocators, ros-hydro-lockfree, ros-hydro-rosatomic, ros-hydro-roscpp, ros-hydro-roslib, ros-hydro-rosunit, ros-hydro-std-msgs
+Description: rosrt provides classes for interfacing with ROS from within realtime systems, such as realtime-safe Publisher and Subscriber classes.
