@@ -19,5 +19,5 @@ tracks:
     release_tag: :{version}
     ros_distro: hydro
     vcs_type: git
-    vcs_uri: https://github.com/TheDash/ros_realtime-1.git
+    vcs_uri: https://github.com/ros/ros_realtime.git
     version: :{auto}
