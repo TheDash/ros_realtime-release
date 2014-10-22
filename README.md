@@ -1,3 +1,29 @@
+## ros_realtime (hydro) - 1.0.15-0
+
+The packages in the `ros_realtime` repository were released into the `hydro` distro by running `/usr/bin/bloom-release --rosdistro hydro --track hydro ros_realtime` on `Wed, 22 Oct 2014 19:01:51 -0000`
+
+These packages were released:
+- `allocators`
+- `lockfree`
+- `ros_realtime`
+- `rosatomic`
+- `rosrt`
+
+Version of package(s) in repository `ros_realtime`:
+- upstream repository: https://github.com/ros/ros_realtime.git
+- release repository: https://github.com/TheDash/ros_realtime-release.git
+- rosdistro version: `1.0.14-0`
+- old version: `1.0.14-0`
+- new version: `1.0.15-0`
+
+Versions of tools used:
+- bloom version: `0.5.12`
+- catkin_pkg version: `0.2.4`
+- rosdep version: `0.10.30`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## ros_realtime (hydro) - 1.0.14-0
 
 The packages in the `ros_realtime` repository were released into the `hydro` distro by running `/usr/bin/bloom-release --rosdistro hydro --track hydro ros_realtime` on `Wed, 22 Oct 2014 18:05:43 -0000`
