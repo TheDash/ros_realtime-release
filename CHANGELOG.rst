@@ -2,6 +2,11 @@
 Changelog for package ros_realtime
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.16 (2014-10-24)
+-------------------
+* Changelogs
+* Contributors: TheDash
+
 1.0.15 (2014-10-22)
 -------------------
 
